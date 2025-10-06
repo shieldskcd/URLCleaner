@@ -9,7 +9,7 @@ class ShareViewController: UIViewController {
     
     // MARK: - Configuration
     // Change this to your email address
-    let YOUR_EMAIL = "aykons@gmail.com"
+    let YOUR_EMAIL = "(TypeYourEmail)"
     
     override func viewDidLoad() {
         super.viewDidLoad()

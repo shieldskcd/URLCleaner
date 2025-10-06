@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  URL Cleaner
 //
-//  Created by David Shields on 10/6/25.
+//  Created by Dave Shields on 10/6/25.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("The URL has been coded for your mailbox.")
         }
         .padding()
     }
